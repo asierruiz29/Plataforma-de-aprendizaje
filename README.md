@@ -1,4 +1,6 @@
-# 🎓 Plataforma de Aprendizaje Online
+# Plataforma de Aprendizaje Online
+
+[🎬 Vídeo de demostración](#-demostración-de-la-aplicación)
 
 Plataforma de aprendizaje online desarrollada con **Java, Spring Boot, Angular, TypeScript y Microsoft SQL Server**. Su objetivo es ofrecer un entorno donde los profesores puedan gestionar cursos y los alumnos puedan inscribirse, acceder a las lecciones y realizar un seguimiento de su progreso.
 
@@ -60,7 +62,9 @@ La gestión de roles permitirá adaptar los permisos y las operaciones disponibl
 
 ## 🎬 Demostración de la aplicación
 
-Puedes ver la demostración completa de la plataforma en el siguiente vídeo:
+A continuación puedes ver una demostración completa de la plataforma de aprendizaje, sus funcionalidades y su funcionamiento.
 
-[▶️ Ver demostración completa de la aplicación en YouTube](https://youtu.be/-euKDOazo8A)
+[![Ver demostración completa de la aplicación](https://img.youtube.com/vi/-euKDOazo8A/hqdefault.jpg)](https://youtu.be/-euKDOazo8A)
+
+*Haz clic en la imagen para reproducir el vídeo completo en YouTube.*
 
