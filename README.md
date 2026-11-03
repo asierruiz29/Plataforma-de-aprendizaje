@@ -58,7 +58,7 @@ Profesor: podrá crear y editar cursos, gestionar sus lecciones y administrar la
 
 La gestión de roles permitirá adaptar los permisos y las operaciones disponibles a cada tipo de usuario, manteniendo separadas las funcionalidades de aprendizaje y administración de cursos.
 
-## 📸 Capturas de pantalla
+## 🎬 Vídeo de demostración
 
-*Se añadirán capturas de la interfaz para mostrar las principales funcionalidades de la plataforma.*
+La demostración de la plataforma está dividida en tres partes:
 
