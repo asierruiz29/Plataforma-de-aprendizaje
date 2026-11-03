@@ -35,7 +35,6 @@ Plataforma de aprendizaje online desarrollada con **Java, Spring Boot, Angular, 
 | Backend              | Java, Spring Boot    |
 | Frontend             | Angular, TypeScript  |
 | Base de datos        | Microsoft SQL Server |
-| Control de versiones | Git, GitHub          |
 
 ## 🗄️ Modelo de datos
 
