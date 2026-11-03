@@ -4,6 +4,8 @@
 
 Plataforma de aprendizaje online desarrollada con **Java, Spring Boot, Angular, TypeScript y Microsoft SQL Server**. Su objetivo es ofrecer un entorno donde los profesores puedan gestionar cursos y los alumnos puedan inscribirse, acceder a las lecciones y realizar un seguimiento de su progreso.
 
+![Vista previa de la aplicación](./imagen/inicio.png)
+
 ## 🚀 Funcionalidades
 
 - **Gestión de usuarios y roles:** diferenciación de permisos entre alumnos y profesores.
