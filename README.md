@@ -60,12 +60,7 @@ La gestión de roles permitirá adaptar los permisos y las operaciones disponibl
 
 ## 🎬 Demostración de la aplicación
 
-### Vídeo - Parte 1
-https://github.com/asierruiz29/asierruiz29/blob/main/Videos/parte1.mp4
+Puedes ver la demostración completa de la plataforma en el siguiente vídeo:
 
-### Vídeo - Parte 2
-https://github.com/asierruiz29/Videos/parte2.mp4
-
-### Vídeo - Parte 3
-https://github.com/asierruiz29/Videos/parte3.mp4
+[▶️ Ver demostración completa de la aplicación en YouTube](https://youtu.be/-euKDOazo8A)
 
