@@ -62,3 +62,7 @@ La gestión de roles permitirá adaptar los permisos y las operaciones disponibl
 
 La demostración de la plataforma está dividida en tres partes:
 
+### 🎬 Parte 1
+
+https://github.com/asierruiz29/plataforma-aprendizaje/blob/main/Video/Video_por_partes/App_demostracion_noaudio_1.mp4
+
