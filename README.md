@@ -61,11 +61,11 @@ La gestión de roles permitirá adaptar los permisos y las operaciones disponibl
 ## 🎬 Demostración de la aplicación
 
 ### Vídeo - Parte 1
-https://github.com/asierruiz29/blob/main/Videos/parte1.mp4
+https://github.com/asierruiz29/Videos/parte1.mp4
 
 ### Vídeo - Parte 2
-https://github.com/asierruiz29/blob/main/Videos/parte2.mp4
+https://github.com/asierruiz29/Videos/parte2.mp4
 
 ### Vídeo - Parte 3
-https://github.com/asierruiz29/blob/main/Videos/parte3.mp4
+https://github.com/asierruiz29/Videos/parte3.mp4
 
