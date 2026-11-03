@@ -58,11 +58,14 @@ Profesor: podrá crear y editar cursos, gestionar sus lecciones y administrar la
 
 La gestión de roles permitirá adaptar los permisos y las operaciones disponibles a cada tipo de usuario, manteniendo separadas las funcionalidades de aprendizaje y administración de cursos.
 
-## 🎬 Vídeo de demostración
+## 🎬 Demostración de la aplicación
 
-La demostración de la plataforma está dividida en tres partes:
+### Vídeo - Parte 1
+https://github.com/asierruiz29/blob/main/Videos/parte1.mp4
 
-### 🎬 Parte 1
+### Vídeo - Parte 2
+https://github.com/asierruiz29/blob/main/Videos/parte2.mp4
 
-https://github.com/asierruiz29/plataforma-aprendizaje/blob/main/Video/Video_por_partes/App_demostracion_noaudio_1.mp4
+### Vídeo - Parte 3
+https://github.com/asierruiz29/blob/main/Videos/parte3.mp4
 
